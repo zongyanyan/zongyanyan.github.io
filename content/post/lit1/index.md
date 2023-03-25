@@ -3,7 +3,7 @@ title: "技术社会学的兴起与现状"
 date: 2023-03-25T23:22:56+08:00
 lastmod: 2023-03-25T23:22:56+08:00
 draft: false
-tags: [""]
+tags: []
 categories: ["文献阅读"]
 # author: "Wikipedia"
 
